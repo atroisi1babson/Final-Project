@@ -1,0 +1,1 @@
+CHATGPT_KEY = "YOUR KEY"
